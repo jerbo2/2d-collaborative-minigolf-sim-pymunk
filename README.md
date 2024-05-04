@@ -5,3 +5,6 @@ A nonholonomic robot control sim in Pygame / Pymunk where a user and a robot tak
 `python3 sim.py`
 
 Obstacles can be configured by editing the obstacles array in sim.py line 205. Click and drag on the ball to apply force to the ball in a specified direction. After the ball stops after your shot, the robot should take over for one shot. The ball will reset to the starting position if it goes into the hole. 
+
+https://github.com/jerbo2/2d-collaborative-minigolf-sim-pymunk/assets/99144447/cdd0b6f9-6118-4baf-9fc1-43b939b3fa7c
+
